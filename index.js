@@ -19,7 +19,7 @@ console.log(array);
 
 
 
-
+// shuffle method
 function shuffle(array) {
   var currentIndex = array.length,  randomIndex;
 
